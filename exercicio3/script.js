@@ -1,4 +1,4 @@
-
+/* 
 function soma(num1, num2) {
     adicao = num1 + num2
     return adicao
@@ -34,4 +34,4 @@ divisao(num1, num2)
 console.log(adicao)
 console.log(sub)
 console.log(multi)
-console.log(div)
+console.log(div) */
